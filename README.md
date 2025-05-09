@@ -121,8 +121,6 @@ Currently, I am a computer science undergraduate with a focus on software develo
 
 <h3 align="left">🔥   My Stats :</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kasunmendis7&theme=transparent&hide_border=true)](https://git.io/streak-stats) 
-
 <a href="https://github.com/kasunmendis7" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasunmendis7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
