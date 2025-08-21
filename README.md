@@ -3,7 +3,7 @@
 </div>
 
 
-<h2 align="left">A Passionate Software Engineer</h2>
+<h2 align="left">Computer Science Undergraduate</h2>
 
 - 🌱 I’m currently learning **Machine Learning**
 
