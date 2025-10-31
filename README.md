@@ -5,8 +5,6 @@
 
 <h2 align="left">Computer Science Undergraduate</h2>
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 Reach me at **tkomendis@gmail.com**
 
 
